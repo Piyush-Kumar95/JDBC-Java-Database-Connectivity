@@ -19,3 +19,7 @@
 
 # Deleted Data
 ![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/82f822bc59fe72a41eba0ad922fa331dff73bb7d/Photo/Data%20In%20Database.png)
+
+# 4. Fetch Data In Database
+
+![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/6b5da0f69fa49707a753330331f13dce1cc44096/Photo/Fetch%20Data.png)
