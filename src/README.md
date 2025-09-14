@@ -16,3 +16,6 @@
 # 3. Delete Data In Database
 
 ![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/63934d8e57e36dab4df1914cc1996934ed298216/Photo/DeletedRegno.png)
+
+# Deleted Data
+![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/82f822bc59fe72a41eba0ad922fa331dff73bb7d/Photo/Data%20In%20Database.png)
