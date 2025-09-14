@@ -11,4 +11,4 @@
 ![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/06a32374cf19a6ac507c9fdee908054aed686760/Photo/Update%20Value.png)
 # Update Data
 
-#[image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/a462843010a0d7fabfebb99339917705903c2eca/Photo/Update%20Data.png)
+![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/a462843010a0d7fabfebb99339917705903c2eca/Photo/Update%20Data.png)
