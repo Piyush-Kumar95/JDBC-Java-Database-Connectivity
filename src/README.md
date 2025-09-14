@@ -5,3 +5,5 @@
 
  # Data Store In Database
 ![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/5e64a8f41c4d5c2ade6c7744a482c5a6d0e0e02f/Photo/Data%20In%20Database.png)
+
+# 2. Update Data In Database
