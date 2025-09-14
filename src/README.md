@@ -12,3 +12,7 @@
 # Update Data
 
 ![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/a462843010a0d7fabfebb99339917705903c2eca/Photo/Update%20Data.png)
+
+# 3. Delete Data In Database
+
+![image alt](https://github.com/Piyush-Kumar95/JDBC-Java-Database-Connectivity/blob/63934d8e57e36dab4df1914cc1996934ed298216/Photo/DeletedRegno.png)
